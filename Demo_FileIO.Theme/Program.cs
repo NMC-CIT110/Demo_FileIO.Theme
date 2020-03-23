@@ -5,6 +5,16 @@ namespace Demo_FileIO.Theme
 {
     class Program
     {
+        // **************************************************
+        //
+        // Title: Demo - File IO Theme
+        // Description: Demonstration of using a data file for storing the theme
+        // Application Type: Console
+        // Author: Velis, John
+        // Dated Created: 3/22/2020
+        // Last Modified: 
+        //
+        // **************************************************
         static void Main(string[] args)
         {
             DisplaySetTheme();

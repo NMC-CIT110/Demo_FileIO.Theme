@@ -3,6 +3,17 @@ using System.IO;
 
 namespace Demo_FileIO.Theme
 {
+    // **************************************************
+    //
+    // Title: Demo - File IO Theme
+    // Description: Demonstration of using a data file for storing the theme
+    //              with file I/O exception handling
+    // Application Type: Console
+    // Author: Velis, John
+    // Dated Created: 3/22/2020
+    // Last Modified: 
+    //
+    // **************************************************
     class Program
     {
         static void Main(string[] args)
@@ -10,8 +21,7 @@ namespace Demo_FileIO.Theme
             DisplayReadAndSetTheme();
             DisplaySetNewTheme();
         }
-
-
+        
         /// <summary>
         /// *****************************************************************
         /// *             Read and Set Console Theme Screen                 *
